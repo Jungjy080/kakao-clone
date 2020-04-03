@@ -1,3 +1,38 @@
-<a href="http://google.com" target="_blank">Go to google</a>
-<p></p>
-<a href="http://www.naver.com" target="_blank">Go to naver</a>
+<!DOCTYPE html> #html 문서라는 것을 브라우저에게 알려준다 #왜 열고 닫지 않는가?
+self-contained tag 이기 때문이다. (스스로 열고 닫는 태그) 이런 종류의 태그는 그
+자체로 정보로 기능할 뿐, 마킹을 하거나 지칭하는 내용이 없다.
+<html>
+  #html tag #문서는 크게 2파트로 나뉜다. 하나는 head이고, 다른 하나는 body이다.
+  #head에는 브라우저에게 필요한 정보(imformation)를 적고, body에는 유저가 살펴볼
+  내용(contents)를 적는다.
+  <head>
+    #head tag : head는 유저에게 보이지 않는다. head는 브라우저에게 필요한 정보를
+    제공할 뿐이다.
+    <meta charset="utf-8" />
+    #meta tag : 추가정보, meta tag는 head에 위치한다. #meta charset : character
+    encoding 문자세팅 #utf-8방식으로 encoding한다는 뜻
+    <meta name="description" content="Welcome to my kakao Clone" />
+    #meta name : 브라우저 검색시, 웹사이트 제목 아래에 웹사이트에 대한 설명하는
+    부분
+    <meta author="jungjy080" />
+    <title>타이틀</title>
+    #title tag : 브라우저 탭에 제목으로 표시된다. head에 위치한다.
+  </head>
+  <body>
+    #body tag : 사람이 보는 부분은 body이다.
+    <h1>가장 큰 타이틀</h1>
+    #h1 tag : 가장 큰 타이틀이다. body에 위치한다. h1부터 h6까지 있다.
+    <h6>가장 작은 타이틀</h6>
+    <section></section>
+    #semantic tag (의미O)
+    <article></article>
+    #semantic tag (의미O)
+    <header></header>
+    #semantic tag (의미O)
+    <div></div>
+    #non-semantic tag (의미x) #div tag : 컨테이너, 박스 필요시 사용 / 안에
+    내용물을 넣는 태그
+    <span></span>
+    #non-semantic tag (의미x) #span tag : 텍스트를 위한 컨테이너 필요시 사용
+  </body>
+</html>
