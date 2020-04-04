@@ -1,0 +1,15 @@
+오늘의 강의: 이론 "[[Module #4] Advanced CSS - #4.4 ~ #4.6" 입니다.
+
+아래 모습과 같은 스크린을 똑같이 구현하세요.
+한개의 링크에 2개 스크린을 다 넣어서 제출해주세요. 
+
+<코딩 결과>
+https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-26/5d6066fc-e47a-47e8-8de5-1eca4a19b35c.gif
+https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-26/d1478780-7606-4986-b058-3ffb9fc31953.gif
+
+
+필요조건:
+No images allowed
+
+힌트:
+To delay an animation, use ‘animation-delay’ or add a number to the animation expression: ‘animation: 5s myAnim linear 2s;’ where ‘2s’ is the animation delay.

@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+
+button {
+  all: unset;
+  background-color: #7f8c8d;
+  color: white;
+  font-size: 26px;
+  padding: 15px 30px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: 200;
+  transition: background-color 0.5s ease-in-out, box-shadow 0.2s ease-in-out;
+  display: block;
+}
+
+button:hover {
+  background-color: #95a5a6;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.3), 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.nico {
+  margin-top: 20px;
+  width: 150px;
+  transition: all 1s ease-in-out;
+}
+
+.nico:hover {
+  border: 5px solid black;
+  transform: rotate(-1.6turn) scale(0.5);
+}
