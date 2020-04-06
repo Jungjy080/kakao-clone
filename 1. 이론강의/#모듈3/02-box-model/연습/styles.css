@@ -1,0 +1,12 @@
+.box {
+  background-color: red;
+  width: 1000px;
+  height: 1000px;
+  padding: 50px 40px 20px 30px;
+}
+.inbox {
+  background-color: blue;
+  width: 500px;
+  height: 500px;
+  border: 20px dashed black;
+}
