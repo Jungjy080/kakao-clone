@@ -1,0 +1,14 @@
+오늘의 강의: 실전 #2.4 ~ #2.7 
+
+오늘의 과제: 위의 강의들을 시청하신 후, 아래 코드 챌린지를 제출하면 됩니다.
+제출기간: 익일 오전 6시까지
+코드 챌린지: 아래 스크린과 같은 CSS 를 작성하세요.
+
+수행조건:
+Use flex box
+Use Google Fonts
+Use Font Awesome
+You don’t need to reproduce the phone, you can do it by CSS but is not necessary. Focus on making the screen.
+
+<코딩 결과>
+https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-27/36904c14-24a1-4dd9-aaa3-2110f6b5a2cb.png

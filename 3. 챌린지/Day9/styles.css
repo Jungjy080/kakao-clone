@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+body {
+  padding: 50px;
+  font-family: sans-serif;
+  background-color: #2c3e50;
+  font-family: "Open Sans";
+}
+
+.product {
+  width: 300px;
+  padding: 20px 15px;
+  background-color: white;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+.product .product__image {
+  max-width: 100%;
+}
+
+.product .product__title {
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.product .product__subtitle {
+  margin: 0;
+  font-size: 12px;
+  opacity: 0.6;
+  letter-spacing: 0.1px;
+}
+
+.product .product__footer {
+  margin-top: 10px;
+}
+
+.product__footer .product__price {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.product .product__footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product__rating i {
+  font-size: 12px;
+  color: #febc52;
+}
+
+.product__rating i:last-child {
+  color: #d7dee5;
+}
+
+.user {
+  width: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  padding-bottom: 0px;
+  background-color: white;
+  border-top-width: 0px;
+}
+
+.user .user__bg {
+  height: 150px;
+  width: 100%;
+  background-image: url("https://superdevresources.com/wp-content/uploads/2016/02/material-banners.jpg");
+  background-size: cover;
+}
+
+.user .user__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user__header .user__avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: relative;
+  top: -30px;
+  border: 3px solid white;
+}
+
+.user__header .user__name {
+  margin-top: -20px;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.user__header .user__position {
+  font-size: 13px;
+  opacity: 0.6;
+  font-weight: 400;
+}
+
+.user .user__header {
+  margin-bottom: 20px;
+}
+
+.user .user__buttons {
+  padding: 0px 30px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user__buttons .user__button {
+  text-decoration: none;
+  color: white;
+  background-color: rgba(106, 117, 255, 1);
+  width: 115px;
+  text-align: center;
+  padding: 10px 0px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.user__buttons .user__button:last-child {
+  background-color: rgba(106, 117, 255, 0.3);
+  color: rgba(106, 117, 255, 1);
+}

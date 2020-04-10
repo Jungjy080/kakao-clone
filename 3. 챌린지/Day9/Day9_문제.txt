@@ -1,0 +1,9 @@
+오늘의 강의: 실전 #2.0 ~ #2.3 
+
+오늘의 과제: 위의 강의들을 시청하신 후, 아래 코드 챌린지를 제출하면 됩니다.
+제출기간: 익일 오전 6시까지
+코드 챌린지: 아래 스크린과 같은 CSS 를 작성하세요.
+
+<코딩 결과>
+https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-27/6fe4b962-1877-4fc2-b903-493914d3bcb6.png
+https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-27/771ae5c2-dde5-461e-8be7-1504cbdfff34.png

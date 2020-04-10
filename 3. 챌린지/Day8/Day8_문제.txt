@@ -1,0 +1,8 @@
+오늘의 강의: 실전 #1.1 ~ #1.9 
+
+코드 챌린지: 아래 스크린과 같은 HTML 을 작성하세요. (HTML ONLY!)
+Your code sandbox have to have 2 HTML files.
+각각 스크린 구조를 HTML로 작성하여, 2개의 파일로 만들어서 제출하세요.
+
+<코딩 결과>
+https://cdn.dribbble.com/users/1192538/screenshots/6349659/instagram.png
