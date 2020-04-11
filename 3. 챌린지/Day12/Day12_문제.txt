@@ -1,0 +1,14 @@
+오늘의 강의: 실전 #2.11 ~ #2.13
+
+오늘의 과제: 위의 강의들을 시청하신 후, 아래 코드 챌린지를 제출하면 됩니다.
+제출기간: 익일 오전 6시까지
+코드 챌린지: 아래 스크린과 같은 CSS 를 작성하세요.
+
+수행조건:
+Use flex box
+Use Google Fonts
+Use Font Awesome
+You don’t need to reproduce the phone, you can do it by CSS but is not necessary. Focus on making the screen.
+
+<코딩 결과>
+file:///C:/Users/CC/Documents/kakao-clone/3.%20%EC%B1%8C%EB%A6%B0%EC%A7%80/Day12/index.html
