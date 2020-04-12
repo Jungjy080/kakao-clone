@@ -1,0 +1,10 @@
+오늘의 강의: 실전 #3.0 ~ #3.3
+
+오늘의 과제: 위의 강의들을 시청하신 후, 아래 코드 챌린지를 제출하면 됩니다.
+제출기간: 익일 오전 6시까지
+코드 챌린지: 아래 스크린과 같은 CSS + Animation 를 작성하세요.
+
+<코딩 결과>
+https://lh3.googleusercontent.com/xWu12ctIdOUput7vMWUaC1KUMqD4z8zoCSzUuP-PrfvPlAT4VySoqxjOhStKnWOOra8as8d6lUj_E7jVgpsv8mH-q-plfx9AkIvMD_htqvhvIqZ8Yg-MdZgYrUG44x0DEn62-_re
+https://lh5.googleusercontent.com/ercLrzGF0ot_bfbO4zlPr073qUaUkfwnFYGt9gieZwuglGjwGtylDDBmcV0Bx720CpZzxO5XB7-qHTPGbq-m_plkt69MuTiNZ5Z2RZOxC1kymRUyy-mJPtzjy1k9WrH9D-QTOfqh
+https://lh3.googleusercontent.com/fGdU3qFvuNE9Shwrx3O7TW-LL1Z7UGKoWunn6xWGydCQf8PeGng8EZU3yklmOqCfdvyGlcjhpnf3_KFSHZzJpt66pSIP6SADbcJAJ-JjpK15uYkepsXuUuihn97fry_GE_1ALBlT
